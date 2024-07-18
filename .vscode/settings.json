@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "primeira-classe/MinhaClasse/src/edu/joao/anatomiaclasses",
+        "primeira-classe/MinhaClasse/src/edu/joao",
+        "operadores",
+        "metodos"
+    ],
+    "java.project.referencedLibraries": []
+}
